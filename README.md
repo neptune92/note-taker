@@ -21,4 +21,4 @@
   ## Questions
   Contact me here: angelacr@ymail.com
   <br>
-  [neptune92](github.com/neptune92)
+  github.com/neptune92
